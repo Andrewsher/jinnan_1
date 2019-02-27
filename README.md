@@ -4,4 +4,4 @@
 
 基于[鱼佬的baseline](https://tianchi.aliyun.com/forum/postDetail?postId=41837)，手动选取了一些特征，把lgb和xgb做融合。
 
-打不过大佬的baseline，初赛排近400名……
+打不过大佬的baseline，初赛排388/2682
